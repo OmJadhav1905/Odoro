@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458131541270",
+    "project_id": "odoro-1f2da",
+    "storage_bucket": "odoro-1f2da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458131541270:android:d2441ed13d9b5aefcf9437",
+        "android_client_info": {
+          "package_name": "com.why.odoro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPLwHSbKTRuEPFXtMedwJFK8Zt35zir-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
